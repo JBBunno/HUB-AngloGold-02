@@ -1,21 +1,21 @@
 {
-  "adminPin": "0000",
+  "adminPin": "1234",
   "loginPassword": "password",
   "apps": [
     {
       "id": "app1",
-      "name": "APP NAME 1",
-      "desc": "App 1 description",
-      "url": "https://jbbunno.github.io/REPO-NAME-HERE/",
+      "name": "Mill Shutdown Dashboard",
+      "desc": "LiveTrack Updates",
+      "url": "https://jbbunno.github.io/DB_AngloGol_01/",
       "emoji": "📊",
       "color": "c0",
       "enabled": true
     },
     {
       "id": "app2",
-      "name": "APP NAME 2",
-      "desc": "App 2 description",
-      "url": "https://jbbunno.github.io/REPO-NAME-HERE/",
+      "name": "Crusher Shutdown Dashboard",
+      "desc": "LiveTrack Updates",
+      "url": "https://jbbunno.github.io/DB_AngloGol_02/",
       "emoji": "📊",
       "color": "c1",
       "enabled": true
@@ -27,7 +27,7 @@
       "url": "https://jbbunno.github.io/REPO-NAME-HERE/",
       "emoji": "📊",
       "color": "c2",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "app4",
